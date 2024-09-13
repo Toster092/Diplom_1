@@ -17,8 +17,7 @@
 
 **Установка зависимостей**
 
-> `$ pip install pytest`
-> `$ pip install pytest-cov'
+> `$ pip install -r requirements.txt`
 
 **Запуск автотестов и создание HTML-отчета о покрытии**
 
